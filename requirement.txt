@@ -1,6 +1,9 @@
 langgraph
 langchain
 langchain-deepseek
+langgraph-checkpoint-postgres
 
 python-dotenv
 loguru
+rich
+psycopg[binary]
